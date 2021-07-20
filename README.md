@@ -1,2 +1,2 @@
-# Parallel_Programming_Course
+## Parallel Programming Course
 Репозиторий с проектами по параллельному программированию
